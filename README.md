@@ -24,8 +24,8 @@ Building security tools and translating technical findings into business risk.
 
 ## Certifications
 
-- API-RTA — API Red Team Analyst
-- WEB-RTA — Certified Web Red Team Analyst
+- **API-RTA — API Red Team Analyst**, CyberWarFare Labs
+- **WEB-RTA — Certified Web Red Team Analyst**, CyberWarFare Labs
 
 ---
 
