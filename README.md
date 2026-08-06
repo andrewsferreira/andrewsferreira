@@ -1,13 +1,31 @@
-*Andrews Ferreira*
+# Andrews Ferreira
 
-**Application Security • Security Engineering • AI Security**
+**Application Security • Offensive Security • Security Engineering**
 
-Helping engineering teams build and operate secure software.
+Building security tools and translating technical findings into business risk.
 
 [LinkedIn](https://www.linkedin.com/in/andrewslferreira) •
 [Medium](https://medium.com/@andrewsferreira) •
 [Hack The Box](https://profile.hackthebox.com/profile/019dd05a-92c2-7383-8a72-144282de471e) •
 [GitHub](https://github.com/andrewsferreira)
+
+---
+
+## Practical Security Focus
+
+- Web Application Security
+- API Security
+- Authorization and Business Logic
+- Attack-Path Analysis
+- Security Automation
+- Threat Modeling and Secure Architecture
+
+---
+
+## Certifications
+
+- API-RTA — API Red Team Analyst
+- WEB-RTA — Certified Web Red Team Analyst
 
 ---
 
