@@ -24,6 +24,7 @@ Building security tools and translating technical findings into business risk.
 
 ## Certifications
 
+- **CRTA - Certified Red Team Analyst**, CyberWarFare Labs
 - **API-RTA — API Red Team Analyst**, CyberWarFare Labs
 - **WEB-RTA — Certified Web Red Team Analyst**, CyberWarFare Labs
 
