@@ -1,6 +1,6 @@
 # Andrews Ferreira
 
-**Application Security • Offensive Security • Security Engineering • Security Architecture**
+**Security Architecture • Application Security • Offensive Security • Security Engineering **
 
 Building security tools and translating technical findings into business risk.
 
